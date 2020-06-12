@@ -26,7 +26,7 @@ With trained model, calculate anomaly score and plot these by various ways.
 
 <b>Plot these images as anomaly score</b>
 
-![20190904151355](https://user-images.githubusercontent.com/48679574/84467758-0705c500-acb8-11ea-9f62-c9323e33a31c.png)
+<img src="https://user-images.githubusercontent.com/48679574/84467758-0705c500-acb8-11ea-9f62-c9323e33a31c.png" width=50%>
 
 
 ## 3.Anomaly detection with similar image search tec(faiss)
@@ -34,9 +34,7 @@ With trained model, calculate anomaly score and plot these by various ways.
 I acomplished about 99% accuracy to classify normal and anomaly images by stylaGAN model and similar image search tec(faiss)
 
 
-
-
-![20190904151627](https://user-images.githubusercontent.com/48679574/84467759-09681f00-acb8-11ea-92f5-0e6b0babfc95.png)
+<img src="https://user-images.githubusercontent.com/48679574/84467759-09681f00-acb8-11ea-92f5-0e6b0babfc95.png" width=50%>
 
 
 
