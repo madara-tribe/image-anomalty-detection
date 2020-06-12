@@ -16,7 +16,9 @@ Train only normal images by stleGAN and generate too similar normal images
 ![60763975-b30f5b00-a0ba-11e9-8f23-ca78c12721b1](https://user-images.githubusercontent.com/48679574/84467703-e0e02500-acb7-11ea-858e-da572a164309.png)
 
 
-## 2.Calculate anomaly score and plot these by various ways
+## 2.Calculate anomaly score and plot these by using trained model
+
+With trained model, calculate anomaly score and plot these by various ways.
 
 <b>Normal and anomaly image</b>
 
