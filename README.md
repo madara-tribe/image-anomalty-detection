@@ -4,7 +4,7 @@
 
 ## 1. train by styleGAN
 
-Train only normal images by stleGAN and generate images too similar to normal images
+Train only normal images by stleGAN and generate too similar normal images
 
 <b>generating process</b>
 
