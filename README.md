@@ -20,14 +20,18 @@ Train only normal images by stleGAN and generate images too similar to normal im
 
 <b>normal and anomaly image</b>
 
+![20190904213001](https://user-images.githubusercontent.com/48679574/84467756-053c0180-acb8-11ea-9adf-7cd0b547d7c3.jpg)
 
 <b>Plot these anomaly score</b>
+
+![20190904151355](https://user-images.githubusercontent.com/48679574/84467758-0705c500-acb8-11ea-9f62-c9323e33a31c.png)
 
 
 ## 3.anomaly detection by faiss
 
 <b>I acomplished about 99% accuracy to classify normal and anomaly images by stylaGAN model and similar image search tec(faiss)</b>
 
+![20190904151627](https://user-images.githubusercontent.com/48679574/84467759-09681f00-acb8-11ea-92f5-0e6b0babfc95.png)
 
 
 
