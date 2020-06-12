@@ -1,33 +1,33 @@
-# image_anomalty_detection
+# Image_anomalty_detection
 
-# steps
+# Steps
 
-## 1. train by styleGAN
+## 1. Train by styleGAN
 
 Train only normal images by stleGAN and generate too similar normal images
 
-<b>generating process</b>
+<b>Generating process</b>
 
 ![60765275-07bed000-a0d3-11e9-8096-63fa08a4c36c](https://user-images.githubusercontent.com/48679574/84467695-dc1b7100-acb7-11ea-9cc0-a0d1541671c7.GIF)
 
 
-<b>generated images</b>
+<b>Generated images</b>
 
 ![60763975-b30f5b00-a0ba-11e9-8f23-ca78c12721b1](https://user-images.githubusercontent.com/48679574/84467703-e0e02500-acb7-11ea-858e-da572a164309.png)
 
 
-## 2.calculate anomaly score and plot these by various ways
+## 2.Calculate anomaly score and plot these by various ways
 
-<b>normal and anomaly image</b>
+<b>Normal and anomaly image</b>
 
 ![20190904213001](https://user-images.githubusercontent.com/48679574/84467756-053c0180-acb8-11ea-9adf-7cd0b547d7c3.jpg)
 
-<b>Plot these anomaly score</b>
+<b>Plot these images as anomaly score</b>
 
 ![20190904151355](https://user-images.githubusercontent.com/48679574/84467758-0705c500-acb8-11ea-9f62-c9323e33a31c.png)
 
 
-## 3.anomaly detection by faiss
+## 3.Anomaly detection by faiss
 
 I acomplished about 99% accuracy to classify normal and anomaly images by stylaGAN model and similar image search tec(faiss)
 
