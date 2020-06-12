@@ -36,4 +36,6 @@ Train only normal images by stleGAN and generate images too similar to normal im
 
 
 
-The logics are written by bellow my blog
+## 4.The logics are written by bellow my blog
+
+https://trafalbad.hatenadiary.jp/entry/2019/09/04/213627
