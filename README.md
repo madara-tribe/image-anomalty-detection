@@ -39,6 +39,7 @@ I acomplished about 99% accuracy to classify normal and anomaly images by stylaG
 
 
 
-## 4.The logics are written by bellow my blog
+# Summary
+The logics and process are written by bellow my blog
 
 https://trafalbad.hatenadiary.jp/entry/2019/09/04/213627
