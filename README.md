@@ -22,7 +22,7 @@ With trained model, calculate anomaly score and plot these by various ways.
 
 <b>Normal and anomaly image</b>
 
-![20190904213001](https://user-images.githubusercontent.com/48679574/84467756-053c0180-acb8-11ea-9adf-7cd0b547d7c3.jpg)
+<img src="https://user-images.githubusercontent.com/48679574/84467756-053c0180-acb8-11ea-9adf-7cd0b547d7c3.jpg" width=50%>
 
 <b>Plot these images as anomaly score</b>
 
